@@ -1,6 +1,6 @@
 # Potato Disease Classification
 
-A machine learning application for classifying potato plant diseases using TensorFlow, FastAPI, and React.
+A machine learning application for classifying potato plant diseases using TensorFlow, FastAPI, React Native, React JS, and Google Cloud for deployment.
 
 ## Table of Contents
 
