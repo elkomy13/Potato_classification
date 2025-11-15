@@ -1,0 +1,11 @@
+tensorflow==2.20.0
+fastapi
+uvicorn
+python-multipart
+pillow
+tensorflow-serving-api==2.19.1
+matplotlib
+numpy
+
+
+# the env name is tf on python 3.11
